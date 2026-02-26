@@ -1,0 +1,156 @@
+{
+  "level_id": 6,
+  "name": "Level 2.1",
+  "rooms": [
+    {
+      "room_id": 1,
+      "room_type": "RoomType.Entrance"
+    },
+    {
+      "room_id": 2,
+      "room_type": "RoomType.EWCorridor"
+    },
+    {
+      "room_id": 3,
+      "room_type": "RoomType.SmallRoom"
+    },
+    {
+      "room_id": 4,
+      "room_type": "RoomType.EWCorridor"
+    },
+    {
+      "room_id": 5,
+      "room_type": "RoomType.MediumRoom"
+    },
+    {
+      "room_id": 6,
+      "room_type": "RoomType.NSCorridor"
+    },
+    {
+      "room_id": 7,
+      "room_type": "RoomType.MediumRoom"
+    },
+    {
+      "room_id": 8,
+      "room_type": "RoomType.NSCorridor"
+    },
+    {
+      "room_id": 9,
+      "room_type": "RoomType.LargeRoom"
+    },
+    {
+      "room_id": 10,
+      "room_type": "RoomType.NSCorridor"
+    },
+    {
+      "room_id": 11,
+      "room_type": "RoomType.ChestRoom"
+    },
+    {
+      "room_id": 12,
+      "room_type": "RoomType.EWCorridor"
+    },
+    {
+      "room_id": 13,
+      "room_type": "RoomType.MediumRoom"
+    },
+    {
+      "room_id": 14,
+      "room_type": "RoomType.EWCorridor"
+    },
+    {
+      "room_id": 15,
+      "room_type": "RoomType.LargeRoom"
+    },
+    {
+      "room_id": 16,
+      "room_type": "RoomType.NSCorridor"
+    },
+    {
+      "room_id": 17,
+      "room_type": "RoomType.LargeRoom"
+    },
+    {
+      "room_id": 18,
+      "room_type": "RoomType.NSCorridor"
+    },
+    {
+      "room_id": 19,
+      "room_type": "RoomType.BossRoom"
+    }
+  ],
+  "doorways": [
+    {
+      "room_1_id": 1,
+      "room_2_id": 2
+    },
+    {
+      "room_1_id": 2,
+      "room_2_id": 3
+    },
+    {
+      "room_1_id": 3,
+      "room_2_id": 4
+    },
+    {
+      "room_1_id": 4,
+      "room_2_id": 5
+    },
+    {
+      "room_1_id": 5,
+      "room_2_id": 6
+    },
+    {
+      "room_1_id": 6,
+      "room_2_id": 7
+    },
+    {
+      "room_1_id": 5,
+      "room_2_id": 8
+    },
+    {
+      "room_1_id": 8,
+      "room_2_id": 9
+    },
+    {
+      "room_1_id": 9,
+      "room_2_id": 10
+    },
+    {
+      "room_1_id": 10,
+      "room_2_id": 11
+    },
+    {
+      "room_1_id": 5,
+      "room_2_id": 12
+    },
+    {
+      "room_1_id": 12,
+      "room_2_id": 13
+    },
+    {
+      "room_1_id": 13,
+      "room_2_id": 14
+    },
+    {
+      "room_1_id": 14,
+      "room_2_id": 15
+    },
+    {
+      "room_1_id": 15,
+      "room_2_id": 16
+    },
+    {
+      "room_1_id": 16,
+      "room_2_id": 17
+    },
+    {
+      "room_1_id": 17,
+      "room_2_id": 18
+    },
+    {
+      "room_1_id": 18,
+      "room_2_id": 19
+    }
+  ]
+}
